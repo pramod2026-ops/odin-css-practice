@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+/*Grouping selector for matching styles*/
+.black-bg, .yellow-bg {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size:28px;
+}
+/*Unique styles*/
+.black-bg {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.yellow-bg {
+    background-color: yellow;
+}
